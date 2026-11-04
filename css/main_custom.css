@@ -1,0 +1,304 @@
+#aHolder,
+#onetrust-consent-sdk {
+  display: none !important;
+}
+
+#hiddenClasses {
+  display       : flex !important;
+  flex-direction: row;
+  position      : fixed;
+  left          : 51%;
+  top           : unset;
+  bottom        : 0px;
+  transform     : translateX(-50%);
+  margin-right  : 10px;
+}
+
+#menuClassPicker0[onclick="selectClass(0)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_0.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker0[onclick="selectClass(0)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker1[onclick="selectClass(1)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_1.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker1[onclick="selectClass(1)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker2[onclick="selectClass(2)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_2.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : border         : 3px orange;
+}
+
+#menuClassPicker2[onclick="selectClass(2)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker3[onclick="selectClass(3)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_3.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : border         : 3px orange;
+}
+
+#menuClassPicker3[onclick="selectClass(3)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker4[onclick="selectClass(4)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_4.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker4[onclick="selectClass(4)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker5[onclick="selectClass(5)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_5.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker5[onclick="selectClass(5)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker6[onclick="selectClass(6)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_6.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+ border         : 3px orange;
+}
+
+#menuClassPicker6[onclick="selectClass(6)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker7[onclick="selectClass(7)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_7.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker7[onclick="selectClass(7)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker8[onclick="selectClass(8)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_8.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker8[onclick="selectClass(8)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker9[onclick="selectClass(9)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_9.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker9[onclick="selectClass(9)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker10[onclick="selectClass(10)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_10.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker10[onclick="selectClass(10)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker11[onclick="selectClass(11)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_11.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker11[onclick="selectClass(11)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker12[onclick="selectClass(12)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_12.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+ border         : 3px orange;
+}
+
+#menuClassPicker12[onclick="selectClass(12)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker13[onclick="selectClass(13)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_13.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker13[onclick="selectClass(13)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker14[onclick="selectClass(14)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_14.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker14[onclick="selectClass(14)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
+#menuClassPicker15[onclick="selectClass(15)"] {
+  display        : block;
+  width          : 60px;
+  height         : 60px;
+  content        : url(https://assets.krunker.io/textures/classes/icon_15.png);
+  pointer-events : auto;
+  image-rendering: pixelated;
+  margin-right   : 10px;
+  padding        : 5px;
+  border-radius  : 10px;
+  border         : 3px orange;
+}
+
+#menuClassPicker15[onclick="selectClass(15)"]:hover {
+  cursor: pointer;
+  filter: drop-shadow(0 0 6px #fff);
+}
+
