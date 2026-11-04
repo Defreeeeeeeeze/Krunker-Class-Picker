@@ -1,26 +1,18 @@
 {
-	"name": "KrunkerClassPicker",
-	"version": "1",
-	"manifest_version": 2,
-	"permissions": [
-		"webRequest",
-		"webRequestBlocking",
-		"*://*.krunker.io/*",
-		"http://127.0.0.1:8080/*"
-	],
-	"web_accessible_resources": [
-		"*.obj", 
-		"*.png",
-		"*.mp3",
-		"*.css",
-		"*.json",
-		"*.ttf",
-		"*.otf",
-		"*.ico",
-		"*.svg",
-		"*.txt"
-	],
-	"background": {
-		"scripts": ["init.js"]
-	}
+  "name": "Krunker Class Picker",
+  "version": "2.1.0",
+  "manifest_version": 3,
+  "description": "Open Source clean UI addition for Krunker.io that allows you to quickly change your class in-game",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://krunker.io/*", "https://*.krunker.io/*"],
+      "css": ["css/main_custom.css"],
+      "run_at": "document_start"
+    }
+  ]
 }
