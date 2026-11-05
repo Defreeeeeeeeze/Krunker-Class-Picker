@@ -1,8 +1,8 @@
 Krunker Class Picker Extension adds class buttons to the bottom of your game to make changing classes effortless. 
 
-<img width="1099" height="575" alt="Promo2" src="https://github.com/user-attachments/assets/71bc7f12-7091-4d26-a3f3-225c05e1d075" />
-<img width="1099" height="575" alt="Promo1" src="https://github.com/user-attachments/assets/ccac70f5-378e-48bb-beb9-8d62a7d853b8" />
-<img width="1099" height="575" alt="Promo3" src="https://github.com/user-attachments/assets/3f4a5b9a-30d0-4d7f-88a8-4e4c327bcd2f" />
+<img width="549.5" height="287.5" alt="Promo1" src="https://github.com/user-attachments/assets/ccac70f5-378e-48bb-beb9-8d62a7d853b8" />
+<img width="549.5" height="287.5" alt="Promo2" src="https://github.com/user-attachments/assets/71bc7f12-7091-4d26-a3f3-225c05e1d075" />
+<img width="549.5" height="287.5" alt="Promo3" src="https://github.com/user-attachments/assets/3f4a5b9a-30d0-4d7f-88a8-4e4c327bcd2f" />
 
 The code used for this project is code I wrote almost 6 years ago for an in game CSS but it became such an important part of my in-game experience that I decided to share it with the world
 
